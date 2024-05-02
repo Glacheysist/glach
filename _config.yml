@@ -4,3 +4,6 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+repository: glacheysist/glacheysist.github.io
+github_url: https://glacheysist/github_username
+url: https://glacheysist.github.io
